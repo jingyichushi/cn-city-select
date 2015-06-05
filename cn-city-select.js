@@ -11,7 +11,7 @@
       restrict: 'EA',
       replace: true,
       scope: {
-        selectResult: '='
+        selectResult: '=',
         setSelCity: '&'
       },
       templateUrl: "/templates/cn-city-select.html",
