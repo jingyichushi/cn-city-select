@@ -5,7 +5,7 @@
   };
 
 
-  angular.module('cnCitySelect', ['$parse']).directive('citySelect', function(){
+  angular.module('cnCitySelect', []).directive('citySelect', function($parse){
     return {
       priority: 1,
       restrict: 'EA',
