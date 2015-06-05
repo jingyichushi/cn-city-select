@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/jingyichushi/cordova-cn-city-select",
   "authors": [
-    "Xu Hu <hxtheone@gmail.com>"
+    "jingyichushi <lengrongqiu@gmail.com>"
   ],
   "description": "An Angular directive to provide Chine city selection.",
   "keywords": [
