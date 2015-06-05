@@ -9,7 +9,8 @@ This is a plugin to make it easy to add a China region selector into your Angula
 Install this plugin by using bower.
 
 	# enter your asset directory
-	bower install angular cordova-cn-city-select --save
+	#bower install angular cordova-cn-city-select --save
+	bower install angular git@github.com:jingyichushi/cordova-cn-city-select.git --save
 
 ## Usage
 
