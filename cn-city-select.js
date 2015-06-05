@@ -12,7 +12,7 @@
       replace: true,
       scope: {
         selectResult: '='
-        setSelCity: "&"
+        setSelCity: '&'
       },
       templateUrl: "/templates/cn-city-select.html",
       link: function($scope, elem, attrs) {
