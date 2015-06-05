@@ -35,7 +35,7 @@
         };
 
         $scope.$watch('province', function (value) {
-          value = $parse(value)($scope)
+          //value = $parse(value)($scope)
           $scope.filteredDistricts.length = 0;
           $scope.city = $scope.district = null;
           if (value) {
@@ -50,7 +50,7 @@
         });
 
         $scope.$watch('city', function (value) {
-          value = $parse(value)($scope)	
+          //value = $parse(value)($scope)	
           $scope.district = null;
           if (value) {
             $scope.filteredDistricts = $areaData.districts.filter(function (district) {
