@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jingyichushi/cordova-cn-city-select.git"
+    "url": "git@github.com:jingyichushi/cordova-cn-city-select.git"
   },
   "keywords": [
     "cordova-cn-city-select"
