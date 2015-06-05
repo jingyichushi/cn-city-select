@@ -1,14 +1,14 @@
 {
-  "name": "cn-city-select",
+  "name": "cordova-cn-city-select",
   "main": "./cn-city-select.js",
   "version": "0.0.1",
-  "homepage": "https://github.com/MrHuxu/angular-city-select",
+  "homepage": "https://github.com/jingyichushi/cordova-cn-city-select",
   "authors": [
     "Xu Hu <hxtheone@gmail.com>"
   ],
   "description": "An Angular directive to provide Chine city selection.",
   "keywords": [
-    "city-select"
+    "cordova-cn-city-select"
   ],
   "license": "MIT",
   "ignore": [
