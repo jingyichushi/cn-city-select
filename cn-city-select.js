@@ -18,7 +18,6 @@
       templateUrl: "/templates/cn-city-select.html",
       link: function($scope, elem, attrs) {
         $scope.provinces = $areaData.provinces;
-        $scope.province = null;
         $scope.filteredCities = [];
         $scope.filteredDistricts = [];
 
